@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Voice Messages</string>
+    <string name="record">Record</string>
+    <string name="tab_and_hold">Tab and hold to record!</string>
+    <string name="record_started">Record started..</string>
+    <string name="record_finished">Record finished..</string>
+    <string name="upload_started">Upload started..</string>
+    <string name="upload_finished">Upload finished..</string>
 </resources>
